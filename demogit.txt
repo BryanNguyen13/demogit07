@@ -1,3 +1,2 @@
 Hello Git 
-thay đổi nội dung
-tôi là Tín
+file đã thay đổi
